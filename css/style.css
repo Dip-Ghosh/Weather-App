@@ -9,7 +9,6 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    /*background: linear-gradient(300deg, #ced1d6, #bfc0c0);*/
     font-family: "Poppins", sans-serif;
     display: flex;
     flex-direction: column;
